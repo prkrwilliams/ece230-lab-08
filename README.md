@@ -12,6 +12,8 @@ In this lab you have learned about multiplexers and demultiplexers.
 | Question 3 | Your answers to the question | 25% |
 
 ## Names
+Jonah Elliott
+Parker Williams
 
 ## Summary
 In this lab, we built a circuit that involves a 4:1 multiplexer and a 1:4 demultiplexer, where we can route any one of the input data vectors to one of the output data vectors. This way, any input can be mapped to any output with the right select buttons being pressed. We learned how to deal with input vectors in Verilog rather than the bits themselves by using ternary operators to make the routing logic work.
